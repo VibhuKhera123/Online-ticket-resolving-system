@@ -1,0 +1,19 @@
+*{
+    padding: 30px;
+    
+}
+
+.form-container{
+    margin:  30px 90px;
+}
+
+.form-label{
+    font-size: 18px;
+    color: white;
+    letter-spacing: 1.5px;
+    font-weight: 650;
+}
+
+.btn btn-primary{
+    margin-right: 200px;
+}
